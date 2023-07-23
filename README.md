@@ -8,6 +8,9 @@ I'm a software developer who loves to code and play guitar. I'm based in Marylan
 - React
 - Node.js
 - HTML/CSS
+- Golang
+- C++
+- C
 
 ## Projects
 
