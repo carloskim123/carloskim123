@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**maninthehood/maninthehood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer who loves to code and play guitar. I'm based in Maryland, US and enjoy visiting parks in my free time.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- React
+- Node.js
+- HTML/CSS
+
+## Projects
+
+- [Img Search App](https://github.com/maninthehood/Pexels-Image-Api)
+- 
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=maninthehood&show_icons=true)
+
+
