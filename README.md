@@ -14,10 +14,13 @@
 <div align="center">
   <br>
   <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=maninthehood&show_icons=true&title_color=007acc&icon_color=3a0ca3&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&count_private=true&hide=contribs&hide_rank=true"/>
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=maninthehood&show_icons=true&title_color=007acc&icon_color=3a0ca3&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&count_private=true"/>
   </a>
   <a href="#">
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maninthehood&langs_count=5&layout=donut&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=150&border_color=00000000&hide=jupyter%20notebook"/>
+  </a>
+    <a href="#">
+    <img height="190rem" alt="Most Used Languages" src="https://streak-stats.demolab.com?user=maninthehood&theme=transparent&hide_border=true&border_radius=99&date_format=M%20j%5B%2C%20Y%5D&card_width=490"/>
   </a>
 </div> 
    
@@ -59,8 +62,7 @@
 
 <br>
 <br>
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=maninthehood&theme=algolia)](https://git.io/streak-stats)
+
 
 
 <a href="#">
