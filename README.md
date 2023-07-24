@@ -9,7 +9,7 @@
 </a>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=3a0ca3&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Carlos+ツ;I'm+a+14yr+old+web+developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=7b2cbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Carlos+ツ;I'm+a+14yr+old+web+developer)
 
 <div align="center">
   <br>
