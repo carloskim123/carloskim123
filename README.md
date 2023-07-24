@@ -8,6 +8,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3a0ca3&height=120&section=header"/>
 </a>
 
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=3a0ca3&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Carlos+ツ;I'm+a+14yr+old+web+developer)
 
 <div align="center">
@@ -16,7 +17,7 @@
     <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=maninthehood&show_icons=true&title_color=007acc&icon_color=3a0ca3&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&count_private=true&hide=contribs&hide_rank=true"/>
   </a>
   <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maninthehood&langs_count=7&layout=compact&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=150&border_color=00000000&hide=jupyter%20notebook"/>
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maninthehood&langs_count=5&layout=donut&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=150&border_color=00000000&hide=jupyter%20notebook"/>
   </a>
 </div> 
    
@@ -59,6 +60,7 @@
 <br>
 <br>
   
+[![GitHub Streak](https://streak-stats.demolab.com?user=maninthehood&theme=algolia)](https://git.io/streak-stats)
 
 
 <a href="#">
