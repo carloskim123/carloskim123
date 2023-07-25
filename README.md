@@ -56,7 +56,9 @@
     <a href="#">
       <img align="center" alt="Logo do C" height="30" width="40" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     </a>
-
+    <a href="#">
+      <img align="center" alt="Logo do C" height="30" width="40" title="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+    </a>
   </p>
 </div>
 
