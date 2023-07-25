@@ -35,8 +35,17 @@
     <a href="#">
       <img align="center" alt="Logo do TypeScript" height="30" width="40" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     </a>
+            <a href="#">
+      <img align="center" alt="Logo do C" height="30" width="40" title="Svelte" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg">
+    </a>
+            <a href="#">
+      <img align="center" alt="Logo do C" height="30" width="40" title="Vuejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+    </a>
     <a href="#">
       <img align="center" alt="Logo do React" height="30" width="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    </a>
+          <a href="#">
+      <img align="center" alt="Logo do C" height="30" width="40" title="Nuxtjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg">
     </a>
     <a href="#">
       <img align="center" alt="Logo do Nodejs" height="30" width="40" title="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
@@ -59,6 +68,13 @@
     <a href="#">
       <img align="center" alt="Logo do C" height="30" width="40" title="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
     </a>
+    <a href="#">
+      <img align="center" alt="Logo do C" height="30" width="40" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    </a>
+        <a href="#">
+      <img align="center" alt="Logo do C" height="30" width="40" title="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    </a>
+
   </p>
 </div>
 
