@@ -1,4 +1,4 @@
-<meta name="description" content="GitHub profile in green color">
+e<meta name="description" content="GitHub profile in green color">
 <meta name="keywords" content=" GitHub Stats, GitHub Profile, JavaScript, TypeScript, React, Nodejs, HTML5, CSS3, Bootstrap, "/>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -14,13 +14,13 @@
 <div align="center">
   <br>
   <a href="#">
-    <img height="190rem" alt="GitHub Readme Stats" src="https://github-readme-stats.vercel.app/api?username=carloskirui123&show_icons=true&title_color=007acc&icon_color=3a0ca3&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&count_private=true"/>
+    <img height="190rem" alt="GitHub Readme Stats" src="https://github-readme-stats.vercel.app/api?username=carloskim123&show_icons=true&title_color=007acc&icon_color=3a0ca3&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&count_private=true"/>
   </a>
   <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloskirui123&langs_count=6&layout=donut&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=150&border_color=00000000"/>
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloskim123&langs_count=6&layout=donut&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=150&border_color=00000000"/>
   </a>
     <a href="#">
-    <img height="190rem" alt="Github Profile Stats" src="https://streak-stats.demolab.com?user=carloskirui123&theme=transparent&hide_border=true&border_radius=99&date_format=M%20j%5B%2C%20Y%5D&card_width=490"/>
+    <img height="190rem" alt="Github Profile Stats" src="https://streak-stats.demolab.com?user=carloskim123&theme=transparent&hide_border=true&border_radius=99&date_format=M%20j%5B%2C%20Y%5D&card_width=490"/>
   </a>
 </div> 
    
