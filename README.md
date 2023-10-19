@@ -1,8 +1,8 @@
-e<meta name="description" content="GitHub profile in green color">
+<meta name="description" content="GitHub profile in green color">
 <meta name="keywords" content=" GitHub Stats, GitHub Profile, JavaScript, TypeScript, React, Nodejs, HTML5, CSS3, Bootstrap, "/>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Consolas:wght@300&display=swap" rel="stylesheet">
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3a0ca3&height=120&section=header"/>
