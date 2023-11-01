@@ -4,9 +4,6 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Consolas:wght@300&display=swap" rel="stylesheet">
 
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Carlos+ツ;I'm+a+15yr+old+web+developer)
-
 <div align="center">
   <br>
   <a href="#">
