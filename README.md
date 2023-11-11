@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a project called News Bits<br>🌱 I’m currently learning Selenium Java <br>💬 Ask me about Java, JavaScript, HTML, CSS, React<br>⚡ Fun fact about me is that i play both electric and acoustic guitar
+🔭 I’m currently working on a project called Breakfast Blitz<br>🌱 I’m currently learning Selenium Java <br>💬 Ask me about Java, JavaScript, HTML, CSS, React<br>⚡ Fun fact about me is that i play both electric and acoustic guitar
 
 
 # 💻 Tech Stack:
