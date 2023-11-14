@@ -1,3 +1,5 @@
+Profile  Views: [![](https://visitcount.itsvg.in/api?id=carloskim123&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🔭 I’m currently working on nothing  🥱🥱🥱<br>🌱 I’m currently learning Selenium Java <br>💬 Ask me about Java, JavaScript, HTML, CSS, React<br>⚡ Fun fact about me is that i play both electric and acoustic guitar
 
@@ -22,6 +24,5 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=carloskim123&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
