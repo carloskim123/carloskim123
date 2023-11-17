@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on nothing  🥱🥱🥱<br>🌱 I’m currently learning Selenium Java <br>💬 Ask me about Java, JavaScript, HTML, CSS, React<br>⚡ Fun fact about me is that i play both electric and acoustic guitar
+🔭 I’m currently working on <a href="https://github.com/carloskim123/color-repo-kim#readme">color-repo-kim</a><br>🌱 I’m currently learning Selenium Java <br>💬 Ask me about Java, JavaScript, HTML, CSS, React<br>⚡ Fun fact about me is that i play both electric and acoustic guitar
 
 
 # 💻 Tech Stack:
