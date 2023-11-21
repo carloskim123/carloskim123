@@ -1,21 +1,69 @@
-[![](https://visitcount.itsvg.in/api?id=carloskim123&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
+<meta name="description" content="GitHub profile in green color">
+<meta name="keywords" content=" GitHub Stats, GitHub Profile, JavaScript, TypeScript, React, Nodejs, HTML5, CSS3, Bootstrap, "/>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&display=swap" rel="stylesheet">
 
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7d8597&height=120&section=header"/>
+</a>
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=e0ddcf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Carlos+ツ;I'm+a+14yr+old+web+developer)
 
+<div align="center">
+  <br>
+  <a href="#">
+    <img height="190rem" alt="GitHub Readme Stats" src="https://github-readme-stats.vercel.app/api?username=carloskim123&show_icons=true&title_color=007acc&icon_color=3a0ca3&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&count_private=true"/>
+  </a>
+  <a href="#">
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloskim123&langs_count=6&layout=donut&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=150&border_color=00000000"/>
+  </a>
+    <a href="#">
+    <img height="190rem" alt="Github Profile Stats" src="https://streak-stats.demolab.com?user=carloskim123&theme=transparent&hide_border=true&border_radius=99&date_format=M%20j%5B%2C%20Y%5D&card_width=490"/>
+  </a>
+</div> 
+   
+<br>
+<br>
+  
+<div style="display: inline_block">
+  <p align="center">
+    <a href="#">
+      <img align="center" alt="Logo do JavaScript" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do TypeScript" height="30" width="40" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do React" height="30" width="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do Nodejs" height="30" width="40" title="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do HTML5" height="30" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do CSS3" height="30" width="40" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do Java" height="30" width="40" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do Python" height="30" width="40" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    </a>
+        <a href="#">
+      <img align="center" alt="Logo do Elixir" height="30" width="40" title="Elixir" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/elixir_lang_logo_icon_169207.png">
+    </a>
+            <a href="#">
+      <img align="center" alt="Logo do Selenium" height="30" width="40" title="Elixir" src="https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png">
+    </a>
+  </p>
+</div>
 
-# 💫 About Me:
-🔭 I’m currently working on <a target="_blank" href="https://github.com/carloskim123/color-repo-kim#readme">color-repo-kim</a><br>🌱 I’m currently learning Selenium Java <br>💬 Ask me about Java, JavaScript, HTML, CSS, React<br>⚡ Fun fact about me is that i play both electric and acoustic guitar
+<br>
+<br>
 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=carloskim123&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=carloskim123&theme=nightowl&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=carloskim123&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=carloskim123&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7d8597&height=120&section=footer"/>
+</a>
