@@ -8,7 +8,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7d8597&height=120&section=header"/>
 </a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=e0ddcf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Carlos+ツ;I'm+a+14yr+old+web+developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=e0ddcf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Carlos+ツ;An+enthusiastic+web+developer)
 
 <div align="center">
   <br>
