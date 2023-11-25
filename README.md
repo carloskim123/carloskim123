@@ -58,6 +58,9 @@
             <a href="#">
       <img align="center" alt="Logo do Selenium" height="30" width="40" title="Elixir" src="https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png">
     </a>
+        <a href="#">
+      <img align="center" alt="Logo do Selenium" height="30" width="40" title="Elixir" src="https://seeklogo.com/images/M/mongodb-icon-logo-F5A5E0981A-seeklogo.com.png">
+    </a>
   </p>
 </div>
 
