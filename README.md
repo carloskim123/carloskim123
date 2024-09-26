@@ -5,10 +5,10 @@
 <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&display=swap" rel="stylesheet">
 
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7d8597&height=120&section=header"/>
+  <img width=100% src="=https://capsule-render.vercel.app/api?type=waving&color=0d1b2a&height=120&section=header"/>
 </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sometype+Mono&size=27&pause=100&color=F7F7F7&center=true&random=false&width=435&lines=Hey+%2C+I'm+Carlos+Kirui;A+teenage+web+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sometype+Mono&size=27&pause=100&color=081c15&center=true&random=false&width=435&lines=Hey+%2C+I'm+Carlos+Kirui;An+Aspiring+Systems+Engineer)](https://git.io/typing-svg)
 
 <div align="start">
   
