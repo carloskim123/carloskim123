@@ -8,8 +8,7 @@
   <img width=100% src="=https://capsule-render.vercel.app/api?type=waving&color=0d1b2a&height=120&section=header"/>
 </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sometype+Mono&size=27&pause=100&color=081c15&center=true&random=false&width=435&lines=Hey+%2C+I'm+Carlos+Kirui;An+Aspiring+Systems+Engineer)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=300&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=I'm+Carlos+Kirui;An+Aspring+Rust+and+Selenium+Developer)](https://git.io/typing-svg)
 <div align="start">
   
 ## 🌐 Socials:
